@@ -5,7 +5,7 @@
 #include "process_queue_entry.h"
 
 /*
-	Provide a high level imlementation for a thread safe message queue with multiple producer thread and a single consumer thread.
+	Provide a high level implementation for a thread safe message queue with multiple producer thread and a single consumer thread.
 	Implement Push, Pop accessor methods.
 	Concentrate on locking and thread waiting mechanism.
 	Use high level data structures, STL::queue
